@@ -2,6 +2,8 @@
 
 
 ## Heroku Link:
+  https://tutorial-labs.herokuapp.com/
+
 # Progress:
 - [X] Node Website Tutorial
 - [ ] Lab Guide for HTML
