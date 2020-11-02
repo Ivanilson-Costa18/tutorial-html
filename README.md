@@ -6,6 +6,6 @@
 
 # Progress:
 - [X] Node Website Tutorial
-- [ ] Lab Guide for HTML
+- [X] Lab Guide for HTML
 - [ ] Lab Guide for CSS
 - [ ] Lab Guide for Node.js
