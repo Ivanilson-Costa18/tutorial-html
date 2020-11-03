@@ -29,6 +29,20 @@ header section{
   align-items: center;
 }
 
+nav{
+  display: flex;
+  flex-direction: column;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  padding: 5px;
+
+}
+
+nav a{
+  color: white;
+}
+
 footer{
   background-color: blueviolet;
   color: white;
