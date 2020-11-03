@@ -7,13 +7,11 @@ a {
   color: #00B7FF;
 }
 
-bc{
-  background-color: blueviolet;
-}
+ 
 
 header {
   display: flex;
-  background-color: bc;
+  background-color: blueviolet; ;
   color: white;
   padding: 10px;
 }
@@ -28,5 +26,10 @@ header section{
   width: 100%;
   text-align: center;
   flex-direction: column;
-  background-color: bc;
+  align-items: center;
+}
+
+footer{
+  background-color: blueviolet;
+  color: white;
 }
