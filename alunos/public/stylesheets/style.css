@@ -47,6 +47,22 @@ main {
   color: #333333
 }
 
+aside{
+  display: flex;
+  flex-direction: column;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  padding: 5px;
+  background-color: white;
+  border-style: solid;
+  border-color: blueviolet;
+}
+
+aside a{
+  color: blueviolet
+}
+
 footer{
   background-color: blueviolet;
   color: white;
