@@ -7,7 +7,20 @@ a {
   color: #00B7FF;
 }
 
- 
+.header { grid-area: header; }
+.nav { grid-area: nav; }
+.aside { grid-area: aside; }
+.main { grid-area: main; }
+.footer { grid-area: footer; }
+
+.grid{
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: 20% auto 20%;
+  grid-template-areas: 'header header header'
+                       'nav main aside'
+                       'footer footer footer'                    ;
+}
 
 header {
   display: flex;
