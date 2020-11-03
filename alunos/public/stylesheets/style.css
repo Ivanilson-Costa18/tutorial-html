@@ -6,3 +6,27 @@ body {
 a {
   color: #00B7FF;
 }
+
+bc{
+  color: blueviolet;
+}
+
+header {
+  display: flex;
+  background-color: bc;
+  color: white;
+  padding: 10px;
+}
+
+#student-pfp{
+  width: 200px;
+}
+
+
+header section{
+  display: flex;
+  width: 100%;
+  text-align: center;
+  flex-direction: column;
+  background-color: bc;
+}
