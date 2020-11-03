@@ -43,6 +43,10 @@ nav a{
   color: white;
 }
 
+main {
+  color: #333333
+}
+
 footer{
   background-color: blueviolet;
   color: white;
