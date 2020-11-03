@@ -54,6 +54,7 @@ nav{
 }
 
 nav a{
+  padding: 2px;
   color: white;
 }
 
@@ -74,6 +75,7 @@ aside{
 }
 
 aside a{
+  padding: 2px;
   color: blueviolet
 }
 
