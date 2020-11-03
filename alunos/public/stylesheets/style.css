@@ -16,10 +16,11 @@ a {
 .grid{
   display: grid;
   grid-template-rows: auto;
-  grid-template-columns: 20% auto 20%;
-  grid-template-areas: 'header header header'
-                       'nav main aside'
-                       'footer footer footer'                    ;
+  grid-template-columns: 20% auto auto auto 20%;
+  grid-template-areas: 
+  'header header header header  header'
+  'nav main main main  aside'
+  'footer footer footer footer footer'                    ;
 }
 
 header {
