@@ -20,7 +20,7 @@ a {
   grid-template-areas: 
     'header header header header header'
     'nav main main main aside'
-    'footer footer footer footer  footer';
+    'footer footer footer footer footer';
 }
 
 header {
