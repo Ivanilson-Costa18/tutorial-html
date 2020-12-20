@@ -1,0 +1,36 @@
+@import "style.css";
+
+.cards{
+    display: inline-block;
+    padding: 5px; 
+}
+
+.cardContainer{
+    background-color: rgb(24, 195, 218);
+    width: 180px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.fL{
+    margin: 5px;
+    background-color: darkred;
+    width: 50px;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    font: 22px "Arial";
+    color: white;
+}
+
+.topCard{
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+}
+
+.gradeInfo{
+    margin-left:10px ;
+}
+
